@@ -16,8 +16,7 @@
     "fumadocs-ui": "15.8.1",
     "next": "15.5.4",
     "react": "^19.1.1",
-    "react-dom": "^19.1.1",
-    "wrangler": "^4.40.3"
+    "react-dom": "^19.1.1"
   },
   "devDependencies": {
     "@types/node": "24.5.2",
